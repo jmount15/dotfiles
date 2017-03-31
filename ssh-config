@@ -1,0 +1,5 @@
+# CAEN
+Host jmount
+	HostName login.engin.umich.edu
+	User jmount
+	Compression yes
